@@ -1,0 +1,5 @@
+mx\com\microservicio\crud\basico\controller\MicroservicioCrudBasicoController.class
+mx\com\microservicio\crud\basico\dto\MicroservicioCrudBasicoRequestDTO.class
+mx\com\microservicio\crud\basico\dto\MicroservicioCrudBasicoResponseDTO.class
+mx\com\microservicio\crud\basico\MicroservicioCrudBasicoApplication.class
+mx\com\microservicio\crud\basico\service\MicroservicioCrudBasicoService.class
